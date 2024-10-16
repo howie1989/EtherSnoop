@@ -1,4 +1,4 @@
-# 🕵️‍♂️ **EtherSnoop** – The Ultimate Network Detective! 🔍
+# 🕵️‍♂️ **EtherSnoop** 🔍
 
 ![EtherSnoop Logo](https://dummyimage.com/600x200/000/fff&text=EtherSnoop)
 
