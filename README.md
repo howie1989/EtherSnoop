@@ -107,4 +107,4 @@ Thanks for checking out EtherSnoop! We hope it makes your network monitoring fun
 
 Happy Snoopin’! 🕵️‍♂️🎉
 
-P.S. – Shoutout to ChatGPT for helping write most of this, because, let’s face it, I'm more into coding than writing whimsical README files!
+P.S. – Shoutout to ChatGPT for helping write most of this README, because, let’s face it, I'm more into coding than writing whimsical README files!
